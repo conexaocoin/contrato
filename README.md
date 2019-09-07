@@ -1,5 +1,3 @@
-# contrato
-contrato conexão coin 
 /**
  *Submitted for verification at Etherscan.io on 2018-02-12
 */
